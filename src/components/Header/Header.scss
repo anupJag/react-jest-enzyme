@@ -1,0 +1,18 @@
+header{
+    height: 10%;
+    width: 100%;
+    background: rgba(0,0,0,0.2);
+    display: block;
+
+    .container{
+        height: 100%;
+        width: 20%;
+        padding-left: 6%;
+
+        .img{
+            height: 100%;
+            width: auto;
+        }
+        
+    }
+}
